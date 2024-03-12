@@ -1,0 +1,2 @@
+# pamskel
+PAM skeleton code
